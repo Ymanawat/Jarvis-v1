@@ -1,0 +1,7 @@
+keyboard
+SpeechRecognition
+pyperclip
+pyautogui
+pygetwindow
+python-dotenv
+generativeai
